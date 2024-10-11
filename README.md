@@ -15,8 +15,8 @@ Estou em processo de transição de carreira, e estou sempre disposto a aprender
 
 - Desafio 2: Criando um jogo de Detona Ralph com JavaScript.
 
-  [![Desafio 2](https://img.shields.io/badge/-Desafio%202-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-1)
-[![Descrição Desafio 2](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-2/Descricao.md)&nbsp;
+  [![Desafio 2](https://img.shields.io/badge/-Desafio%202-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-2)
+[![Descrição Desafio 2](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-2/detona-ralph/Descricao.md)&nbsp;
 
 
 ##
