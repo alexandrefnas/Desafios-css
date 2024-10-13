@@ -1,0 +1,13 @@
+# função para reduzir o caminho do terminal
+function prompt { "PS > " }
+
+# Função pra voltar o normal o caminho do terminal
+function prompt { $PWD.Path + " > "}
+
+
+# Mostrar a ultima pasta:
+$path = $PWD.Path
+if (Test-Path $path -PathType Container) {
+     $ultimaPasta = Split-Path $path -Leaf
+    function prompt {"PS " + $ultimaPasta +" > " }
+}
