@@ -18,7 +18,10 @@ Estou em processo de transição de carreira, e estou sempre disposto a aprender
   [![Desafio 2](https://img.shields.io/badge/-Desafio%202-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-2)
 [![Descrição Desafio 2](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-2/detona-ralph/Descricao.md)&nbsp;
 
+- Desafio 3: Criando um  Jogo da memória com Emojis Utilizando Javascript.
 
+  [![Desafio 3](https://img.shields.io/badge/-Desafio%203-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-3/Memory-Game)
+  
 ##
 ###  Você pode me encontrar em:
 
