@@ -21,7 +21,12 @@ Estou em processo de transição de carreira, e estou sempre disposto a aprender
 - Desafio 3: Criando um  Jogo da memória com Emojis Utilizando Javascript.
 
   [![Desafio 3](https://img.shields.io/badge/-Desafio%203-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-3/Memory-Game)
-  
+
+- Desafio 4: Construindo uma Pokedex com JavaScript.
+
+  [![Pokedex](https://img.shields.io/badge/-Pokedex-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Pokedex)
+
+
 ##
 ###  Você pode me encontrar em:
 
