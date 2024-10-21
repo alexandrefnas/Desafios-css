@@ -26,6 +26,12 @@ Estou em processo de transição de carreira, e estou sempre disposto a aprender
 
   [![Pokedex](https://img.shields.io/badge/-Pokedex-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Pokedex)
 
+- Desafio 5: Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
+
+  [![Yu Gi Oh](https://img.shields.io/badge/-Yu%20Gi%20Oh-000)](https://github.com/alexandrefnas/Desafios-css/tree/main/Desafio-js-yugioh)
+
+
+
 
 ##
 ###  Você pode me encontrar em:
